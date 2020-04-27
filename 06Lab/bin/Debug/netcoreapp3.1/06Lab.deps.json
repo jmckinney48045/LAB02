@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "GCAHBC Lab 2/1.0.0": {
+      "06Lab/1.0.0": {
         "runtime": {
-          "GCAHBC Lab 2.dll": {}
+          "06Lab.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "GCAHBC Lab 2/1.0.0": {
+    "06Lab/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

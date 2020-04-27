@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>GCAHBC_Lab_2</RootNamespace>
+    <RootNamespace>_06Lab</RootNamespace>
   </PropertyGroup>
 
 </Project>

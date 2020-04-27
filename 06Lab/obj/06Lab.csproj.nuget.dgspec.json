@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmcki\\source\\repos\\GCAHBC Lab 2\\GCAHBC Lab 2\\GCAHBC Lab 2.csproj": {}
+    "C:\\Users\\jmcki\\source\\repos\\06Lab\\06Lab\\06Lab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmcki\\source\\repos\\GCAHBC Lab 2\\GCAHBC Lab 2\\GCAHBC Lab 2.csproj": {
+    "C:\\Users\\jmcki\\source\\repos\\06Lab\\06Lab\\06Lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmcki\\source\\repos\\GCAHBC Lab 2\\GCAHBC Lab 2\\GCAHBC Lab 2.csproj",
-        "projectName": "GCAHBC Lab 2",
-        "projectPath": "C:\\Users\\jmcki\\source\\repos\\GCAHBC Lab 2\\GCAHBC Lab 2\\GCAHBC Lab 2.csproj",
+        "projectUniqueName": "C:\\Users\\jmcki\\source\\repos\\06Lab\\06Lab\\06Lab.csproj",
+        "projectName": "06Lab",
+        "projectPath": "C:\\Users\\jmcki\\source\\repos\\06Lab\\06Lab\\06Lab.csproj",
         "packagesPath": "C:\\Users\\jmcki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmcki\\source\\repos\\GCAHBC Lab 2\\GCAHBC Lab 2\\obj\\",
+        "outputPath": "C:\\Users\\jmcki\\source\\repos\\06Lab\\06Lab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jmcki\\AppData\\Roaming\\NuGet\\NuGet.Config",
